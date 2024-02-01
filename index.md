@@ -3,5 +3,7 @@
 
 **[Linear & Logistic Regression](https://mapersiani.github.io/ECE176-assignments/linear&logistic_regression.html)**
 
+**[Neural Network](https://mapersiani.github.io/ECE176-assignments/neural_network.html)**
+
 
 
