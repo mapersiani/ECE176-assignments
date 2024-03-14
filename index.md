@@ -5,5 +5,11 @@
 
 **[Neural Network](https://mapersiani.github.io/ECE176-assignments/neural_network.html)**
 
+**[Classification](https://mapersiani.github.io/ECE176-assignments/classification_nn.html)**
+
+**[Neural Network](https://mapersiani.github.io/ECE176-assignments/assignment5.html)**
+
+**[Neural Network](https://mapersiani.github.io/ECE176-assignments/assignment6.html)**
+
 
 
